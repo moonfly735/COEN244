@@ -1,4 +1,4 @@
-#include "NodeList.h"
+#include "Node.h"
 
 void testgetset(){
     Node n1;
