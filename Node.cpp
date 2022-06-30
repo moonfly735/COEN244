@@ -1,4 +1,4 @@
-#include "NodeList.h"
+#include "Node.h"
 
 Node::Node(){
     id = 0;
